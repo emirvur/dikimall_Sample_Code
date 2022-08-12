@@ -10,10 +10,11 @@ Gizlilik gerekçesiyle back-end reposunu açık kaynak koda aktarılmamıştır.
 
 -Uygulamanın demo videosu için https://www.youtube.com/watch?v=mfDzfD6062s
 
--Uygulama Mimarisi 
+## Uygulama Mimarisi 
+
 <img src="screenshots/dikimall_architecthture.png"  width="700" height="450">
 
--Ekran Görüntüleri
+## Ekran Görüntüleri
 
 <img src="screenshots/profildetay.png"  width="400" height="600">
 
