@@ -15,7 +15,11 @@ Gizlilik gerekçesiyle back-end reposunu açık kaynak koda aktarılmamıştır.
 
 -Ekran Görüntüleri
 
-<img src="screenshots/dikimall_architecthture.png"  width="700" height="450">
+<img src="screenshots/profildetay.png"  width="400" height="600">
 
-<img src="screenshots/dikimall_architecthture.png"  width="700" height="450">
+<img src="screenshots/ilan.png"  width="400" height="600">
+
+<img src="screenshots/postdetay.png"  width="400" height="600">
+
+<img src="screenshots/selftasarim.png"  width="400"  height="600">
 
