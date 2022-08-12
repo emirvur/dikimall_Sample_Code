@@ -4,3 +4,6 @@ Bu repo geliştirdiğim startup projesinin örnek amaçlı kodlarını içermekt
 
 -Uygulamanın demo videosu için 
 
+-Uygulama Mimarisi 
+<img src="screenshots/dikimall_architecthture.png"  width="400" height="600">
+
