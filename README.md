@@ -4,7 +4,7 @@ Bu repo geliştirdiğim startup projesinin örnek amaçlı kodlarını içermekt
 
 Bu uygulama Flutter Frameworku ile yapılmıştır.Uygulamada MVVM yapısı kullanılmıştır.
 
-Back-end tarafında ise MongoDb,NodeJS,ElasticSearch,AWS S3,Iyzico kullanılmıştır.
+Back-end tarafında ise MongoDb,NodeJS,Socket.io,ElasticSearch,AWS S3,Iyzico kullanılmıştır.
 
 Gizlilik gerekçesiyle back-end reposunu açık kaynak koda aktarılmamıştır.
 
